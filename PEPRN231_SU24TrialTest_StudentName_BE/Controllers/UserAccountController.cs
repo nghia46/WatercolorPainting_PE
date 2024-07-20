@@ -44,6 +44,5 @@ namespace PEPRN231_SU24TrialTest_StudentName_BE.Controllers
 
             return Ok(result);
         }
-
     }
 }

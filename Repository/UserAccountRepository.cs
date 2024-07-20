@@ -1,5 +1,4 @@
-﻿
-using BusinessObject.Models;
+﻿using BusinessObject.Models;
 using Dao;
 
 namespace Repository
