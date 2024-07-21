@@ -28,6 +28,7 @@ builder.Services.AddTransient<AuthHeaderHandler>();
 builder.Services.AddSession();
 
 #endregion
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
